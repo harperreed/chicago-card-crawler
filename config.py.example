@@ -1,0 +1,12 @@
+url_root = 'https://www.chicago-card.com/'
+
+email = '' # username
+password = '' #passwd
+
+log_file = "CTA"
+
+
+start_date = "08-01-2012"
+end_date = "10-01-2012"
+
+num_days = 5
