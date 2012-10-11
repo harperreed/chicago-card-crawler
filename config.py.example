@@ -1,12 +1,18 @@
-url_root = 'https://www.chicago-card.com/'
-
-email = '' # username
-password = '' #passwd
-
-log_file = "CTA"
-
-
+#enter dates if you want to crawl specific dates
 start_date = "08-01-2012"
 end_date = "10-01-2012"
 
-num_days = 5
+#enter the number of days you want to crawl (90 is the max)
+num_days = 90
+
+#username and password for chicago-card.com
+email = '' # username
+password = '' #passwd   
+
+#url root
+url_root = 'https://www.chicago-card.com/'
+
+
+
+#name of the logfile
+log_file = "CTA"
